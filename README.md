@@ -1,10 +1,10 @@
 # How's it going? ✌
 
 ![Itszaidyt](https://github.com/Itszaidyt/Itszaidyt/blob/49d9cefa4ab548bdddfb2e13430f11444be3e7f7/header.jpg)<br>
-**-** I am [Itszaid](https://www.youtube.com/@Itszaidyt), but you can refer to me as [Zaid](https://www.youtube.com/@Itszaidyt)!<br>
+**-** I am [Itszaid](https://www.youtube.com/@Itszaid32), but you can refer to me as [Zaid](https://www.youtube.com/@Itszaid32)!<br>
 
 I primarily code in **C++**, **Assembly**, and **Python** in a learning-style sort of hobby!<br>
-**I have over 200 subscribers on [YouTube](https://www.youtube.com/@Itszaidyt), but I'll work my way up there!**
+**I have over 200 subscribers on [YouTube](https://www.youtube.com/@Itszaid32), but I'll work my way up there!**
 
 **🛠 High low-level developer<br>
 🗜 Senior Windows experimenting developer<br>
