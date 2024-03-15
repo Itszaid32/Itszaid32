@@ -1,6 +1,6 @@
-![Itszaid32](https://github.com/Itszaid32/Itszaid32/blob/main/banner.jpg)
+# Welcome here👋...
 
-# How's it going...
+![Itszaid32](https://github.com/Itszaid32/Itszaid32/blob/main/banner.png)
 
 **- I am [Itszaid](https://www.youtube.com/@Itszaid32), but you can refer to me as Zaid!**<br>
 **-** You may want to join my [Discord Server](https://discord.gg/9rxEkKs8Fn), but you gotta be a ***YouTube Member*** though!
