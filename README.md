@@ -1,9 +1,9 @@
-# Welcome here 👋...
+# Hello friend! 👋...
 
-![Itszaid32](https://github.com/Itszaid32/Itszaid32/blob/main/banner.png)
+![Itszaid32](https://github.com/Itszaid32/Itszaid32/blob/main/header.png)
 
 I am [Itszaid](https://www.youtube.com/@Itszaid32), but you can refer to me as Zaid.<br>
-I usually program in coding languages such as C/++ and Assembly in a developing-style form of hobby.<br>
+I usually program in coding languages such as C/++ and Assembly, you can take a look at some of my source codes stored in my other repositories...<br>
 
 * 📸 Ongoing YouTuber<br>
 * 🛠 Low-level program developer<br>
@@ -16,6 +16,6 @@ I usually program in coding languages such as C/++ and Assembly in a developing-
 You may want to join my [Discord Server](https://discord.gg/9rxEkKs8Fn), but you gotta be a ***YouTube Member*** though!<br>
 **I have over 200 subscribers on [YouTube](https://www.youtube.com/@Itszaid32), and over 80 followers on [Twitter]().**<br>
 
-## Recent videos on YouTube?
+## Any new videos yet?
 
-Well, here are a few of my first and newest videos.<br>
+Well, I recently started uploading content onto YouTube; here are a few of my first and newest videos.<br>
